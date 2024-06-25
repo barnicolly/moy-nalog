@@ -44,6 +44,7 @@
             "Shoman4eg\\Nalog\\": "src/"
         }
     },
+    "minimum-stability": "stable",
     "autoload-dev": {
         "psr-4": {
             "Shoman4eg\\Nalog\\Tests\\": "tests/"
