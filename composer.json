@@ -23,7 +23,7 @@
         "php": ">=7.4||^8.3",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "brick/math": "^0.9",
+        "brick/math": "^0.12",
         "php-http/client-common": "^2.7",
         "php-http/discovery": "^1.14",
         "psr/http-client": "^1.0.1",
