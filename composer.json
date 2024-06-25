@@ -1,5 +1,5 @@
 {
-    "name": "shoman4eg/moy-nalog",
+    "name": "barnicolly/moy-nalog",
     "description": "An unofficial wrapper client for lknpd.nalog.ru API",
     "license": "MIT",
     "type": "library",
